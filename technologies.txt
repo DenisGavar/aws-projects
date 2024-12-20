@@ -1,0 +1,8 @@
+AWS
+
+S3
+QuickSight
+Amazon Lex
+Lambda
+CloudWatch
+AWS CloudFormation
