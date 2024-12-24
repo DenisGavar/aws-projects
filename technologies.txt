@@ -1,6 +1,0 @@
-𝗔𝗺𝗮𝘇𝗼𝗻 𝗦𝟯 for scalable storage solutions
-𝗔𝗺𝗮𝘇𝗼𝗻 𝗤𝘂𝗶𝗰𝗸𝗦𝗶𝗴𝗵𝘁 for data visualization and analytics
-𝗔𝗺𝗮𝘇𝗼𝗻 𝗟𝗲𝘅 for building conversational interfaces
-𝗔𝗪𝗦 𝗟𝗮𝗺𝗯𝗱𝗮 for serverless computing
-𝗔𝗺𝗮𝘇𝗼𝗻 𝗖𝗹𝗼𝘂𝗱𝗪𝗮𝘁𝗰𝗵 for monitoring and logging
-𝗔𝗪𝗦 𝗖𝗹𝗼𝘂𝗱𝗙𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 for infrastructure as code
