@@ -9,3 +9,11 @@
 **Amazon CloudWatch** for monitoring and logging
 
 **Amazon CloudFormation** for infrastructure as code
+
+**Amazon RDS** for managed relational database hosting and scaling
+
+**IAM (Identity and Access Management)** for secure user and role-based access control
+
+**Security Groups** for configuring inbound and outbound network traffic rules
+
+**VPC (Virtual Private Cloud)** for isolated and secure cloud network environments
