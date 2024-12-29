@@ -17,3 +17,7 @@
 **Security Groups** for configuring inbound and outbound network traffic rules
 
 **VPC (Virtual Private Cloud)** for isolated and secure cloud network environments
+
+**Amazon Aurora** for high-performance, fully managed relational databases
+
+**Amazon EC2** for scalable virtual server instances in the cloud
